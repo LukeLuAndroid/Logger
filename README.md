@@ -2,7 +2,7 @@
 简介: 该框架是简易的日志打印框架,用于项目中的日志输出，查看分析等等
 
 一、接入步骤如下：
-1.implement 'com.sdk.log:logger:0.0.2-SNAPSHOT'
+1.implement project(':Logger')
 
 2.在Application中初始化
 定义一个通用配置
